@@ -23,8 +23,6 @@ data-mining-app/
 ## 🚀 Cách chạy ứng dụng
 
 ### 1. Clone về máy:
-```bash
-git clone https://github.com/khoicahu204/data-mining-app.git
 cd data-mining-app
 ```
 
@@ -72,9 +70,3 @@ streamlit run ui/app.py
 - Tải luật về CSV nếu cần
 
 ---
-
-## 📩 Đóng góp / liên hệ
-
-Bạn muốn mở rộng thêm mô hình? Giao diện? Tích hợp dữ liệu mới?
-
-> Liên hệ: `khoicahu204@gmail.com`
